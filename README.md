@@ -9,11 +9,11 @@ I'm a passionate DevOps professional with a knack for automating workflows, opti
 - **Two-Tier Flask App on AWS EKS**: Orchestrated a Flask application deployment on Kubernetes, ensuring high availability and scalability.-->
 
 ### 💡 Technical Skills
-- **Cloud Platforms**: AWS, Azure, GCP ☁️
+- **Cloud Platforms**: AWS<!--, Azure, GCP -->☁️
 - **Containerization**: Docker, Kubernetes, Docker Compose 🐳
-- **CI/CD Tools**: Jenkins 🔄 <!--, Travis CI, GitLab CI-->
+- **CI/CD Tools**: Jenkins, Argo CD 🔄 <!--, Travis CI, GitLab CI-->
 - **IaC**: <!--Terraform,--> Ansible ⚙️
-<!--- **Scripting**: Bash, Python-->
+- **Scripting**: Bash, Python
 
 ### 🌱 I'm currently learning
 - Advanced Kubernetes management 🌐
